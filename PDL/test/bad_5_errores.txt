@@ -1,0 +1,42 @@
+Error Semántico / Linea: 10
+- Detalles: Las operaciones aritméticas solo se permiten entre expresiones enteras. Recibido: cadena
+
+Error Léxico / Linea: 11
+- Detalles: Caracter inválido: "
+
+Error Léxico / Linea: 11
+- Detalles: Caracter inválido: "
+
+Error Semántico / Linea: 12
+- Detalles: Tipo de la asignación y la variable diferentes. Recibido: entero. Esperado: cadena
+
+Error Semántico / Linea: 15
+- Detalles: Tipo de la asignación y la variable diferentes. Recibido: logico. Esperado: entero
+
+Error Semántico / Linea: 15
+- Detalles: No se pueden comparar 2 expresiones de tipos diferentes. Recibido: entero y logico
+
+Error Semántico / Linea: 19
+- Detalles: Sentencia break fuera del cuerpo de un switch
+
+Error Semántico / Linea: 20
+- Detalles: A la función le falta la lista de parámetros: Función: ff
+
+Error Semántico / Linea: 21
+- Detalles: No se pueden llamar a funciones que retornen vacio en una expresión: Función: void
+
+Error Semántico / Linea: 22
+- Detalles: Sentencia return fuera del cuerpo de una función
+
+Error Semántico / Linea: 22
+- Detalles: Tipo de los parámetros de la función incorrectos. Recibido: entero. Esperado: cadena
+
+Error Semántico / Linea: 23
+- Detalles: Número de parámetros de la función incorrectos. Recibido: 1. Esperado: 0
+
+Error Semántico / Linea: 23
+- Detalles: La variable no es una función: Variable: funcion
+
+Error Sintáctico / Linea: 25
+- Detalles: Fin de fichero inesperado
+

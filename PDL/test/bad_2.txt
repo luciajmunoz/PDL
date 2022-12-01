@@ -1,0 +1,15 @@
+let string texto;
+function alert (string msg)
+{
+	switch(msg){
+	case -1:
+	print (msg);
+	default:
+	return;
+	}
+	break;
+	}
+	return;
+}
+  alert
+	(texto);

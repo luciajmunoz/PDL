@@ -1,0 +1,48 @@
+Error Léxico / Linea: 7
+- Detalles: Los comentarios deben empezar por //
+
+Error Léxico / Linea: 7
+- Detalles: Caracter inválido: *
+
+Error Léxico / Linea: 7
+- Detalles: Los comentarios deben empezar por //
+
+Error Léxico / Linea: 14
+- Detalles: Caracter inválido: "
+
+Error Léxico / Linea: 14
+- Detalles: Caracter inválido: ?
+
+Error Léxico / Linea: 14
+- Detalles: Caracter inválido: "
+
+Error Léxico / Linea: 21
+- Detalles: Cadena de mas de 64 caracteres: di cuantos dias tiene el mes ...  la cadena es demasiado larga :(
+
+Error Léxico / Linea: 34
+- Detalles: Número fuera de rango: 92021
+
+Error Léxico / Linea: 34
+- Detalles: Caracter inválido: "
+
+Error Léxico / Linea: 34
+- Detalles: Caracter inválido: "
+
+Error Léxico / Linea: 38
+- Detalles: Una sentencia no puede empezar por _
+
+Error Léxico / Linea: 38
+- Detalles: Variable ya declarada: a_1_b_2
+
+Error Léxico / Linea: 40
+- Detalles: Un String no puede contener un salto de linea
+
+Error Semántico / Linea: 41
+- Detalles: Tipo de la asignación y la variable diferentes. Recibido: cadena. Esperado: entero
+
+Error Léxico / Linea: 41
+- Detalles: Caracter inválido: "
+
+Error Sintáctico / Linea: 41
+- Detalles: Error en el identificador 'buenas'
+

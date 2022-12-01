@@ -1,0 +1,44 @@
+Tabla #1:
+* 'x'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'y1'
+  + Tipo: 'logico'
+  + Despl: 1
+* 'w'
+  + Tipo: 'logico'
+  + Despl: 2
+
+Tabla #2:
+* 'z'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'n'
+  + Tipo: 'entero'
+  + Despl: 1
+
+Tabla #0:
+* 'y1'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'z'
+  + Tipo: 'cadena'
+  + Despl: 1
+* 'Func1'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun2'
+  + numParam: 2
+  + TipoParam1: 'entero'
+  + TipoParam2: 'logico'
+  + TipoRetorno: 'entero'
+* 'Func2'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun3'
+  + numParam: 2
+  + TipoParam1: 'entero'
+  + TipoParam2: 'entero'
+  + TipoRetorno: 'entero'
+* 'global'
+  + Tipo: 'entero'
+  + Despl: 65
+

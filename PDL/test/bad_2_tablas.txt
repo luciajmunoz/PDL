@@ -1,0 +1,16 @@
+Tabla #1:
+* 'msg'
+  + Tipo: 'cadena'
+  + Despl: 0
+
+Tabla #0:
+* 'texto'
+  + Tipo: 'cadena'
+  + Despl: 0
+* 'alert'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun1'
+  + numParam: 1
+  + TipoParam1: 'cadena'
+  + TipoRetorno: 'vacio'
+

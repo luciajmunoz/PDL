@@ -1,0 +1,45 @@
+Tabla #1:
+* 'sss'
+  + Tipo: 'cadena'
+  + Despl: 0
+
+Tabla #2:
+* 'logico2'
+  + Tipo: 'cadena'
+  + Despl: 0
+* 'var'
+  + Tipo: 'entero'
+  + Despl: 64
+
+Tabla #0:
+* 'cadena'
+  + Tipo: 'cadena'
+  + Despl: 0
+* 'logico1'
+  + Tipo: 'logico'
+  + Despl: 64
+* 'logico2'
+  + Tipo: 'logico'
+  + Despl: 65
+* 'int2'
+  + Tipo: 'entero'
+  + Despl: 67
+* 'int1'
+  + Tipo: 'entero'
+  + Despl: 66
+* 'ff'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun5'
+  + numParam: 1
+  + TipoParam1: 'cadena'
+  + TipoRetorno: 'vacio'
+* 'global'
+  + Tipo: 'entero'
+  + Despl: 68
+* 'funcion'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun7'
+  + numParam: 1
+  + TipoParam1: 'cadena'
+  + TipoRetorno: 'cadena'
+

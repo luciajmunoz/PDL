@@ -1,0 +1,31 @@
+
+
+
+//* # */
+
+let string	cadena;
+input(cadena);
+let boolean logico1;
+let boolean logico2;
+let int		int2;
+
+int1 =4;
+if (! logico2) int2 = 3;
+
+function ff (string sss)
+{
+	global = 1;
+	logico1 = ! true;
+	if (logico1) sss = sss ;
+	
+}
+		
+
+
+function funcion string (string logico2)
+{	let int var;
+logico2 = 'True';
+  
+  return logico2;
+}
+

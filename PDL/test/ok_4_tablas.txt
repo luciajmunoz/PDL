@@ -1,0 +1,14 @@
+Tabla #0:
+* 'x'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'b'
+  + Tipo: 'logico'
+  + Despl: 1
+* 'z'
+  + Tipo: 'entero'
+  + Despl: 2
+* 'y'
+  + Tipo: 'entero'
+  + Despl: 3
+

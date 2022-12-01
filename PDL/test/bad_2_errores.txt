@@ -1,0 +1,12 @@
+Error Semántico / Linea: 10
+- Detalles: Solo se permiten variables enteras para switch. Recibido: cadena
+
+Error Semántico / Linea: 11
+- Detalles: Sentencia break fuera del cuerpo de un switch
+
+Error Semántico / Linea: 13
+- Detalles: Sentencia return fuera del cuerpo de una función
+
+Error Sintáctico / Linea: 13
+- Detalles: Error en llaveCerrada
+

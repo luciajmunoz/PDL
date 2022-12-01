@@ -1,0 +1,53 @@
+//** prueba correcta **/
+let int entero;
+let string cadena;
+let boolean logico;
+let int X___9;
+function FuncionNumero ()
+{
+  let string i;
+  
+  i = '1Cadena';
+  cadena = i;
+  i = 'Hola!';
+}
+function FuncionRetorno string (string otracadena, int x, boolean z)
+{
+  x = 33 - (x + entero); return otracadena;
+}
+function FuncionSentencia (int b, boolean z)
+{
+  switch (b )
+  {
+    default:
+	print (88);
+	  break;
+  }
+}
+function Funcion (int x, boolean b)
+{
+	FuncionNumero();
+  print 
+    (cadena);return;
+}
+let int iii;
+let boolean bbb;
+
+//* 
+//esto 
+//es 
+//un 
+//comentario! 
+//multi 
+////línea */
+
+input(iii);
+print  (  iii  )  ;  
+
+iii = iii;
+bbb = bbb;
+
+Funcion
+ ( iii, 
+   bbb )
+;

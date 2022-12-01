@@ -1,0 +1,23 @@
+
+
+	let	boolean	b;let int x;
+input (x);
+print (x);
+input (z);
+print (x+z);
+b=x==z;if (true == false)
+x =
+  x - 6
+    - z
+    - 1
+    - (2
+    - y
+    - 7);
+
+switch (z)
+{
+	case -1:
+	default:print(z);break;
+	case 0:input(x);
+	case 1:print(x);
+}

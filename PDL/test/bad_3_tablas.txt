@@ -1,0 +1,78 @@
+Tabla #1:
+* 'a'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'bis'
+  + Tipo: 'cadena'
+  + Despl: 1
+
+Tabla #2:
+* 'm'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'a'
+  + Tipo: 'entero'
+  + Despl: 1
+* 'dd'
+  + Tipo: 'entero'
+  + Despl: 2
+
+Tabla #3:
+* 'd'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'm'
+  + Tipo: 'entero'
+  + Despl: 1
+* 'a'
+  + Tipo: 'entero'
+  + Despl: 2
+
+Tabla #4:
+
+Tabla #0:
+* 'booleano'
+  + Tipo: 'logico'
+  + Despl: 0
+* 'bisiesto'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun1'
+  + numParam: 1
+  + TipoParam1: 'entero'
+  + TipoRetorno: 'logico'
+* 'Bisiesto'
+  + Tipo: 'entero'
+  + Despl: 1
+* 'dias'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun3'
+  + numParam: 2
+  + TipoParam1: 'entero'
+  + TipoParam2: 'entero'
+  + TipoRetorno: 'entero'
+* 'esFechaCorrecta'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun4'
+  + numParam: 3
+  + TipoParam1: 'entero'
+  + TipoParam2: 'entero'
+  + TipoParam3: 'entero'
+  + TipoRetorno: 'logico'
+* 'demo'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun5'
+  + numParam: 0
+  + TipoRetorno: 'vacio'
+* 'ok'
+  + Tipo: 'entero'
+  + Despl: 2
+* 'a_1_b_2'
+  + Tipo: 'entero'
+  + Despl: 67
+* 'Hola'
+  + Tipo: 'entero'
+  + Despl: 68
+* 'buenas'
+  + Tipo: 'entero'
+  + Despl: 69
+

@@ -1,0 +1,6 @@
+Error Semántico / Linea: 16
+- Detalles: Número de parámetros de la función incorrectos. Recibido: 3. Esperado: 2
+
+Error Semántico / Linea: 32
+- Detalles: Número de parámetros de la función incorrectos. Recibido: 3. Esperado: 2
+

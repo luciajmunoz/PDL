@@ -1,0 +1,184 @@
+Tabla #1:
+* 'kk'
+  + Tipo: 'logico'
+  + Despl: 0
+* 'bbb'
+  + Tipo: 'logico'
+  + Despl: 1
+
+Tabla #2:
+* 'n4'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'bbb'
+  + Tipo: 'logico'
+  + Despl: 1
+
+Tabla #3:
+* 'n'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'n3'
+  + Tipo: 'logico'
+  + Despl: 1
+
+Tabla #4:
+* 'n4'
+  + Tipo: 'entero'
+  + Despl: 0
+* 's4'
+  + Tipo: 'cadena'
+  + Despl: 1
+* 'n1'
+  + Tipo: 'entero'
+  + Despl: 65
+* 'b1'
+  + Tipo: 'cadena'
+  + Despl: 66
+* 'n5'
+  + Tipo: 'entero'
+  + Despl: 130
+
+Tabla #5:
+* 'n2'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'k'
+  + Tipo: 'cadena'
+  + Despl: 1
+* 's2'
+  + Tipo: 'cadena'
+  + Despl: 65
+* 'n4'
+  + Tipo: 'entero'
+  + Despl: 129
+
+Tabla #6:
+* 'n1'
+  + Tipo: 'cadena'
+  + Despl: 0
+* 's1'
+  + Tipo: 'logico'
+  + Despl: 64
+* 'b1'
+  + Tipo: 'entero'
+  + Despl: 65
+* 'nbs'
+  + Tipo: 'entero'
+  + Despl: 66
+* 'f5'
+  + Tipo: 'cadena'
+  + Despl: 67
+
+Tabla #7:
+* 'f1'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'f2'
+  + Tipo: 'entero'
+  + Despl: 1
+* 'f4'
+  + Tipo: 'cadena'
+  + Despl: 2
+* 'f6'
+  + Tipo: 'cadena'
+  + Despl: 66
+* 'f5'
+  + Tipo: 'entero'
+  + Despl: 130
+* 'ff'
+  + Tipo: 'logico'
+  + Despl: 131
+
+Tabla #0:
+* 'n1'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'b1'
+  + Tipo: 'logico'
+  + Despl: 1
+* 's1'
+  + Tipo: 'cadena'
+  + Despl: 2
+* 'n2'
+  + Tipo: 'entero'
+  + Despl: 66
+* 'b2'
+  + Tipo: 'logico'
+  + Despl: 67
+* 's2'
+  + Tipo: 'cadena'
+  + Despl: 68
+* 's3'
+  + Tipo: 'cadena'
+  + Despl: 132
+* 'b3'
+  + Tipo: 'logico'
+  + Despl: 196
+* 'kk'
+  + Tipo: 'entero'
+  + Despl: 197
+* 'f'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun9'
+  + numParam: 1
+  + TipoParam1: 'logico'
+  + TipoRetorno: 'logico'
+* 'n8'
+  + Tipo: 'entero'
+  + Despl: 198
+* 'f6'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun11'
+  + numParam: 1
+  + TipoParam1: 'entero'
+  + TipoRetorno: 'vacio'
+* 'f1'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun12'
+  + numParam: 0
+  + TipoRetorno: 'vacio'
+* 'f2'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun13'
+  + numParam: 2
+  + TipoParam1: 'entero'
+  + TipoParam2: 'cadena'
+  + TipoRetorno: 'vacio'
+* 'f3'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun14'
+  + numParam: 1
+  + TipoParam1: 'entero'
+  + TipoRetorno: 'entero'
+* 'n3'
+  + Tipo: 'entero'
+  + Despl: 199
+* 'f4'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun16'
+  + numParam: 3
+  + TipoParam1: 'cadena'
+  + TipoParam2: 'logico'
+  + TipoParam3: 'entero'
+  + TipoRetorno: 'logico'
+* 'n'
+  + Tipo: 'entero'
+  + Despl: 200
+* 'f5'
+  + Tipo: 'funcion'
+  + EtiqFuncion: 'fun18'
+  + numParam: 5
+  + TipoParam1: 'entero'
+  + TipoParam2: 'entero'
+  + TipoParam3: 'cadena'
+  + TipoParam4: 'cadena'
+  + TipoParam5: 'entero'
+  + TipoRetorno: 'cadena'
+* 'f8'
+  + Tipo: 'entero'
+  + Despl: 201
+* 'nnnn'
+  + Tipo: 'entero'
+  + Despl: 202
+

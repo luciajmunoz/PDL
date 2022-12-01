@@ -1,0 +1,66 @@
+Terminales = { let id int boolean string if switch case default break print input function return = ; , : ( ) { } == += != + - ! entero cadena true false $ }
+
+NoTerminales = { P_ P B W T S S_ X C L Q F H A K E E_ R R_ U V V_ D }
+
+Axioma = P_
+
+Producciones = {
+	P_ -> P
+	P -> B P
+	P -> F P
+	P -> lambda
+	B -> let T id ;
+	B -> if ( E ) S
+	B -> S
+	B -> switch ( id ) { W }
+	W -> case D : C W
+	W -> default : C W
+	W -> lambda
+	T -> int
+	T -> boolean
+	T -> string
+	S -> id S_
+	S -> print ( E ) ;
+	S -> input ( id ) ;
+	S -> return X ;
+	S -> break ;
+	S_ -> += E ;
+	S_ -> = E ;
+	S_ -> ( L ) ;
+	X -> E
+	X -> lambda
+	C -> B C
+	C -> lambda
+	L -> E Q
+	L -> lambda
+	Q -> , E Q
+	Q -> lambda
+	F -> function id H ( A ) { C }
+	H -> T
+	H -> lambda
+	A -> T id K
+	A -> lambda
+	K -> , T id K
+	K -> lambda
+	E -> R E_
+	E_ -> == R
+	E_ -> != R
+	E_ -> lambda
+	R -> U R_
+	R_ -> + U R_
+	R_ -> - U R_
+	R_ -> lambda
+	U -> ! V
+	U -> - V
+	U -> V
+	V -> id V_
+	V -> ( E )
+	V -> entero
+	V -> cadena
+	V -> true
+	V -> false
+	V_ -> ( L )
+	V_ -> lambda
+	D -> entero
+	D -> - entero
+}

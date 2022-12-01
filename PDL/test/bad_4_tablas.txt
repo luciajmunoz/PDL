@@ -1,0 +1,32 @@
+Tabla #1:
+* 'ss'
+  + Tipo: 'logico'
+  + Despl: 0
+
+Tabla #0:
+* 'n1'
+  + Tipo: 'entero'
+  + Despl: 0
+* 'l1'
+  + Tipo: 'logico'
+  + Despl: 1
+* 'cad'
+  + Tipo: 'cadena'
+  + Despl: 2
+* 'n2'
+  + Tipo: 'entero'
+  + Despl: 66
+* 'l2'
+  + Tipo: 'logico'
+  + Despl: 67
+* 'ff'
+  + Tipo: 'funcion'
+  + Despl: 68
+  + EtiqFuncion: 'fun5'
+  + numParam: 1
+  + TipoParam1: 'logico'
+  + TipoRetorno: 'logico'
+* 'varglobal'
+  + Tipo: 'entero'
+  + Despl: 69
+

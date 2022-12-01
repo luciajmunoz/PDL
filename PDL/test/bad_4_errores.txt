@@ -1,0 +1,30 @@
+Error Semántico / Linea: 7
+- Detalles: Solo se permiten variables enteras o cadenas para input. Recibido: logico
+
+Error Semántico / Linea: 8
+- Detalles: Las operaciones lógicas solo se permiten entre expresiones lógicas. Recibido: entero
+
+Error Semántico / Linea: 9
+- Detalles: Tipo de la asignación y la variable diferentes. Recibido: entero. Esperado: cadena
+
+Error Semántico / Linea: 12
+- Detalles: Las operaciones aritméticas solo se permiten entre expresiones enteras. Recibido: logico
+
+Error Léxico / Linea: 18
+- Detalles: Variable ya declarada: ff
+
+Error Semántico / Linea: 27
+- Detalles: Solo se permiten variables enteras o cadenas para input. Recibido: funcion
+
+Error Semántico / Linea: 27
+- Detalles: A la función le falta la lista de parámetros: Función: ff
+
+Error Semántico / Linea: 27
+- Detalles: Número de parámetros de la función incorrectos. Recibido: 2. Esperado: 1
+
+Error Semántico / Linea: 38
+- Detalles: Solo se permiten variables enteras para switch. Recibido: cadena
+
+Error Sintáctico / Linea: 38
+- Detalles: Error en el numero '0'
+

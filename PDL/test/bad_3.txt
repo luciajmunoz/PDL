@@ -1,0 +1,43 @@
+let boolean booleano;
+
+print
+
+(
+
+12345 /**/
+
+)
+
+;
+function bisiesto boolean (int a)	
+{	let string bis;
+	print ("Bisiesto?");
+	input(bis);
+	return (!(a + 4 == 0));	
+}
+function dias int (int m, int a)
+{
+	let int dd;
+	print ('di cuantos dias tiene el mes ...  la cadena es demasiado larga :(');
+	print (m);
+	input(dd);
+	if (bisiesto(a)) dd = dd - 1;
+	return dd;
+}
+function esFechaCorrecta boolean (int d, int m, int a)	
+{
+	return (d == dias (m, a));
+}
+function demo ()	
+{
+
+	if (esFechaCorrecta(25, 10, 92021)) print ("ok");
+	
+}
+let string a_1_b_2;
+let int _a_1_b_2;
+
+a_1_b_2 = 'cadena sin cerrar
+  'cadena cerrada';
+a_1_b_2 = "Hola buenas";
+demo();
